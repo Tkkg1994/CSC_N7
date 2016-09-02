@@ -1,0 +1,6 @@
+/system/app/MyRogers_3.6_build_353/MyRogers_3.6_build_353.apk
+/system/app/RogersAppZone_v1.028.2_Feb-9-2016/RogersAppZone_v1.028.2_Feb-9-2016.apk
+/system/app/shomi_phone/shomi_phone.apk
+/system/app/spotify-generic-20160122-signed/spotify-generic-20160122-signed.apk
+/system/app/Texture_rogers/Texture_rogers.apk
+/system/priv-app/MShopAndroidPhoneApp-6.8.51.7-jackDaniels-release-signed/MShopAndroidPhoneApp-6.8.51.7-jackDaniels-release-signed.apk

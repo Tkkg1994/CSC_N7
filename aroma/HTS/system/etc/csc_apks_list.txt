@@ -1,0 +1,2 @@
+/system/priv-app/appcloud_oobe_hutch_v2.5/appcloud_oobe_hutch_v2.5.apk
+/system/priv-app/IPsecService/IPsecService.apk

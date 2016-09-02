@@ -1,0 +1,23 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED00002</Version>
+  <Country>IRAN</Country>
+  <CountryISO>IR</CountryISO>
+  <SalesCode>THR</SalesCode>
+  <FeatureSet>
+    <CscFeature_Setting_DisableNetworkMode>AddLteWcdma</CscFeature_Setting_DisableNetworkMode> 
+    <CscFeature_Calendar_EnableLocalHolidayDisplay>FARSI</CscFeature_Calendar_EnableLocalHolidayDisplay>
+    <CscFeature_Clock_DisableIsraelCountry>TRUE</CscFeature_Clock_DisableIsraelCountry>
+    <CscFeature_Common_SupportPersianCalendar>TRUE</CscFeature_Common_SupportPersianCalendar>
+    <CscFeature_Email_AlignmentForRTL>TRUE</CscFeature_Email_AlignmentForRTL>
+    <CscFeature_Email_DisableFontAttributeDuringComposing>Bold, Italic</CscFeature_Email_DisableFontAttributeDuringComposing>
+    <CscFeature_Framework_EnableBidirection>TRUE</CscFeature_Framework_EnableBidirection>
+    <CscFeature_RIL_CallerIdMatchingDigit>10</CscFeature_RIL_CallerIdMatchingDigit>
+    <CscFeature_SIP_EnablePreferredEnglishTypeAsUS>TRUE</CscFeature_SIP_EnablePreferredEnglishTypeAsUS>
+    <CscFeature_Sip_LangQwertyType4HwKey>HW_KEYBOARD_COUNTRY_TYPE_IRAN</CscFeature_Sip_LangQwertyType4HwKey>
+    <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart</CscFeature_SmartManager_ConfigSubFeatures>
+    <CscFeature_VoiceCall_DialEmergNumAsNormalCall>110,115,125</CscFeature_VoiceCall_DialEmergNumAsNormalCall>
+    <CscFeature_Weather_SupportCheckingDisputeArea>TRUE</CscFeature_Weather_SupportCheckingDisputeArea>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>FALSE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+  </FeatureSet>
+</SamsungMobileFeature>

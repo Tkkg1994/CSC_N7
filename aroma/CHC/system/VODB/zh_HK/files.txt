@@ -1,0 +1,3 @@
+zh_HK-ak-cur.lite.res	1dfb10d2d61875e7a18e7c849776b98f	10747495
+zh_HK.lang	d2221e06a3a831484770fb4a2d2cfbe7	4125
+zh_HK-lk-text.lite.res	a5b16b7063e51c357fcc9a97a9c98c71	4843592

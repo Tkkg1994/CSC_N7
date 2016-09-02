@@ -1,0 +1,2 @@
+/system/app/MyAccount_v1.0.11/MyAccount_v1.0.11.apk
+/system/priv-app/MShopAndroidPhoneApp-6.8.51.7-jackDaniels-release-signed/MShopAndroidPhoneApp-6.8.51.7-jackDaniels-release-signed.apk

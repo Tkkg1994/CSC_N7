@@ -1,0 +1,4 @@
+/system/app/Netco-Sports_J5-JDM_Stub_Android_2016-01-22/Netco-Sports_J5-JDM_Stub_Android_2016-01-22.apk
+/system/app/Netco-Sports_J5-JDQ_Stub_Android_2016-01-22/Netco-Sports_J5-JDQ_Stub_Android_2016-01-22.apk
+/system/app/videotron-usercentre-plus-2.0-16-stub-release-aligned-final/videotron-usercentre-plus-2.0-16-stub-release-aligned-final.apk
+/system/priv-app/MShopAndroidPhoneApp-6.8.51.7-jackDaniels-release-signed/MShopAndroidPhoneApp-6.8.51.7-jackDaniels-release-signed.apk

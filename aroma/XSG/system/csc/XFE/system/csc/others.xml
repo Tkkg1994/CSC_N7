@@ -1,0 +1,14 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED00003</Version>
+  <Country>SOUTH AFRICA</Country>
+  <CountryISO>ZA</CountryISO>
+  <SalesCode>XFE</SalesCode>
+  <FeatureSet>
+    <CscFeature_Email_AlignmentForRTL>TRUE</CscFeature_Email_AlignmentForRTL>
+    <CscFeature_Framework_EnableBidirection>TRUE</CscFeature_Framework_EnableBidirection>
+    <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart</CscFeature_SmartManager_ConfigSubFeatures>
+    <CscFeature_SyncML_EnableNotiDeltaBinarySizeBeforeDownload>TRUE</CscFeature_SyncML_EnableNotiDeltaBinarySizeBeforeDownload>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+  </FeatureSet>
+</SamsungMobileFeature>

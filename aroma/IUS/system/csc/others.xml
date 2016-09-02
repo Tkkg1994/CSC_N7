@@ -1,0 +1,46 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED00005</Version>
+  <Country>MEXICO</Country>
+  <CountryISO>MX</CountryISO>
+  <SalesCode>IUS</SalesCode>
+  <FeatureSet>
+    <CscFeature_Camera_CameraFlicker>60hz</CscFeature_Camera_CameraFlicker>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_EulaVersion>1</CscFeature_Common_EulaVersion>
+    <CscFeature_Common_SupportDLNA>DMC_ONLY</CscFeature_Common_SupportDLNA>
+    <CscFeature_Contact_AddPreloadedSpeedDialAs>Service,3,*611,Atencion a clientes</CscFeature_Contact_AddPreloadedSpeedDialAs>
+    <CscFeature_Contact_AutoUpdateProfileForNewSimNumber>TRUE</CscFeature_Contact_AutoUpdateProfileForNewSimNumber>
+    <CscFeature_Contact_EnableDynCallerIdMatchingDigitWithAutoSim>TRUE</CscFeature_Contact_EnableDynCallerIdMatchingDigitWithAutoSim>
+    <CscFeature_Framework_ReplaceDataTypeIconAsOpBrand>IUS</CscFeature_Framework_ReplaceDataTypeIconAsOpBrand>
+    <CscFeature_GPS_ConfigAgpsSetting>IUS</CscFeature_GPS_ConfigAgpsSetting>
+    <CscFeature_Message_DisableSmscEditable>TRUE</CscFeature_Message_DisableSmscEditable>
+    <CscFeature_Music_TranslateUnknownTitle>TRUE</CscFeature_Music_TranslateUnknownTitle>
+    <CscFeature_Phone_DisableQuitNetworkLockByManual>TRUE</CscFeature_Phone_DisableQuitNetworkLockByManual>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>IUS-IUS-GSM-LTN</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_ConfigVoicemailSource>CSC</CscFeature_RIL_ConfigVoicemailSource>
+    <CscFeature_RIL_DisableEditingVMNumber>TRUE</CscFeature_RIL_DisableEditingVMNumber>
+    <CscFeature_RIL_DisplayRatInfoInManualNetSearchList>TRUE</CscFeature_RIL_DisplayRatInfoInManualNetSearchList>
+    <CscFeature_RIL_DisplaySpnOnlyInCaseSamePlmn>TRUE</CscFeature_RIL_DisplaySpnOnlyInCaseSamePlmn>
+    <CscFeature_RIL_EnableOnsDisplay>TRUE</CscFeature_RIL_EnableOnsDisplay>
+    <CscFeature_RIL_EnableTotalCallTime>TRUE</CscFeature_RIL_EnableTotalCallTime>
+    <CscFeature_RIL_FixedStkMenu>TRUE</CscFeature_RIL_FixedStkMenu>
+    <CscFeature_Setting_DataRoamingOption>national</CscFeature_Setting_DataRoamingOption>
+    <CscFeature_Setting_DefDialingKeypadTone>OFF</CscFeature_Setting_DefDialingKeypadTone>
+    <CscFeature_Setting_EnableDataRoamingMenuInDetail>TRUE</CscFeature_Setting_EnableDataRoamingMenuInDetail>
+    <CscFeature_Setting_HideApnList>supl.iusacellgsm.mx,location.nexteldata.com.mx</CscFeature_Setting_HideApnList>
+    <CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>IUS</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>IUS_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_DisableEditingCallerID>FALSE</CscFeature_VoiceCall_DisableEditingCallerID>
+    <CscFeature_VoiceCall_EnableBeepVibration4UssdAlert>TRUE</CscFeature_VoiceCall_EnableBeepVibration4UssdAlert>
+    <CscFeature_VoiceCall_EnableDisplaySdnNameDuringCall>TRUE</CscFeature_VoiceCall_EnableDisplaySdnNameDuringCall>
+    <CscFeature_Web_BookmarkPreloadOnChrome>NONE</CscFeature_Web_BookmarkPreloadOnChrome>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>TRUE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_Wifi_DefaultSsidNPwd>SM-XXXX,SM-XXXX,LAST4DIGIT</CscFeature_Wifi_DefaultSsidNPwd>
+    <CscFeature_Wifi_MaxClient4MobileAp>5</CscFeature_Wifi_MaxClient4MobileAp>
+    <CscFeature_Wifi_MaxClient4MobileApNetExtension>LTE,8,HSPAP,8,OTHERS,5</CscFeature_Wifi_MaxClient4MobileApNetExtension>
+    <CscFeature_Wifi_UseDefaultSecurityAs> WPA2/PSK</CscFeature_Wifi_UseDefaultSecurityAs>
+    <CscFeature_Wifi_UseRandom4digitCombinationAsSSID>TRUE</CscFeature_Wifi_UseRandom4digitCombinationAsSSID>
+  </FeatureSet>
+</SamsungMobileFeature>

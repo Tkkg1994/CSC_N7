@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+Copyright (C) 2009 The Android Open Source Project
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.sec.android.app.launcher">
+    <home>
+        <!--  screen [0]  -->
+        <!-- .appwidget.WeatherAppWidget -->
+        <appwidget
+            launcher:className="com.sec.android.daemonapp.appwidget.WeatherAppWidget2x1"
+            launcher:packageName="com.sec.android.daemonapp"
+            launcher:screen="0"
+            launcher:spanX="2"
+            launcher:spanY="1"
+            launcher:x="0"
+            launcher:y="0" />
+
+        <!-- Samsung Pay -->
+        <favorite
+            launcher:className="com.samsung.android.spay.ui.SpayMainActivity"
+            launcher:packageName="com.samsung.android.spay"
+            launcher:screen="0"
+            launcher:x="0"
+            launcher:y="4" />
+
+        <!-- Gallery -->
+        <favorite
+            launcher:className="com.sec.android.gallery3d.app.GalleryOpaqueActivity"
+            launcher:packageName="com.sec.android.gallery3d"
+            launcher:screen="0"
+            launcher:x="1"
+            launcher:y="4" />
+
+        <!-- Music -->
+        <favorite
+            launcher:className="com.samsung.android.app.music.common.activity.MusicMainActivity"
+            launcher:packageName="com.samsung.android.app.music.chn"
+            launcher:screen="0"
+            launcher:x="2"
+            launcher:y="4" />
+
+        <!-- Video -->
+        <favorite
+            launcher:className="com.samsung.android.onlinevideo.list.activity.VideoList"
+            launcher:packageName="com.samsung.android.onlinevideo"
+            launcher:screen="0"
+            launcher:x="3"
+            launcher:y="4" />
+
+        <!-- Settings -->
+        <favorite
+            launcher:className="com.android.settings.Settings"
+            launcher:packageName="com.android.settings"
+            launcher:screen="0"
+            launcher:x="4"
+            launcher:y="4" />
+
+
+        <!--  screen [1]  -->
+        <!-- .WidgetProvider42 -->
+        <appwidget
+            launcher:className="com.sec.android.widgetapp.samsungapps.WidgetProvider42"
+            launcher:packageName="com.sec.android.widgetapp.samsungapps"
+            launcher:screen="1"
+            launcher:spanX="5"
+            launcher:spanY="1"
+            launcher:x="0"
+            launcher:y="0" />
+
+
+        <!-- com.baidu.searchbox.SearchWidgetProvider -->
+        <appwidget
+            launcher:className="com.baidu.searchbox.SearchWidgetProvider"
+            launcher:packageName="com.baidu.searchbox_samsung"
+            launcher:screen="1"
+            launcher:spanX="5"
+            launcher:spanY="1"
+            launcher:x="0"
+            launcher:y="3" />
+
+        <!-- calendar -->
+        <favorite
+            launcher:className="com.android.calendar.AllInOneActivity"
+            launcher:packageName="com.samsung.android.calendar"
+            launcher:screen="1"
+            launcher:x="0"
+            launcher:y="4" />
+
+
+        <!-- Samsung Note -->
+        <favorite
+            launcher:className="com.samsung.android.app.notes.memolist.MemoListActivity"
+            launcher:packageName="com.samsung.android.app.notes"
+            launcher:screen="1"
+            launcher:x="1"
+            launcher:y="4" />
+
+        <!-- S Roaming -->
+        <favorite
+            launcher:className="com.samsung.android.globalroaming.activity.StartingActivity"
+            launcher:packageName="com.samsung.android.globalroaming"
+            launcher:screen="1"
+            launcher:x="2"
+            launcher:y="4" />
+
+        <!-- Word -->
+        <favorite
+            launcher:className="com.microsoft.office.apphost.LaunchActivity"
+            launcher:packageName="com.microsoft.office.word"
+            launcher:screen="1"
+            launcher:x="3"
+            launcher:y="4" />
+
+        <!-- Folder : Microsoft apps -->
+        <folder launcher:screen="1" launcher:title="Microsoft 应用程序" launcher:x="4" launcher:y="4">
+            <!-- Excel -->
+            <favorite
+                launcher:className="com.microsoft.office.apphost.LaunchActivity"
+                launcher:packageName="com.microsoft.office.excel"
+                launcher:screen="0" />
+            <!-- PowerPoint -->
+            <favorite
+                launcher:className="com.microsoft.office.apphost.LaunchActivity"
+                launcher:packageName="com.microsoft.office.powerpoint"
+                launcher:screen="1" />
+            <!-- OneNote -->
+            <favorite
+                launcher:className="com.microsoft.office.onenote.ui.ONMSplashActivity"
+                launcher:packageName="com.microsoft.office.onenote"
+                launcher:screen="2" />
+        </folder>
+
+        <!--  screen [2]  -->
+        <!-- Samsung -->
+        <folder launcher:screen="2" launcher:title="Samsung" launcher:x="0" launcher:y="0">
+            <!-- Samsung Gear -->
+            <favorite
+                launcher:className="com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity"
+                launcher:packageName="com.samsung.android.app.watchmanager"
+                launcher:screen="0" />
+            <!-- S Health -->
+            <favorite
+                launcher:className="com.samsung.android.app.shealth.home.HomeMainActivity"
+                launcher:packageName="com.sec.android.app.shealth"
+                launcher:screen="1" />
+            <!-- S Voice -->
+            <favorite
+                launcher:className="com.samsung.voiceserviceplatform.ui.SVoiceMainActivity"
+                launcher:packageName="com.samsung.voiceserviceplatform"
+                launcher:screen="2" />
+            <!-- S Assistant -->
+            <favorite
+                launcher:className="com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity"
+                launcher:packageName="com.samsung.android.app.sreminder"
+                launcher:screen="3" />            
+        </folder>
+
+        <!-- 实用工具 -->
+        <folder launcher:screen="2" launcher:title="实用工具" launcher:x="1" launcher:y="0">
+            <!-- Voice Recorder -->
+            <favorite
+                launcher:className="com.sec.android.app.voicenote.main.VNMainActivity"
+                launcher:packageName="com.sec.android.app.voicenote"
+                launcher:screen="0" />
+            <!-- Email -->
+            <favorite
+                launcher:className="com.samsung.android.email.ui.activity.MessageListXL"
+                launcher:packageName="com.samsung.android.email.provider"
+                launcher:screen="1" />
+           
+            <!-- Calculator -->
+            <favorite
+                launcher:className="com.sec.android.app.popupcalculator.Calculator"
+                launcher:packageName="com.sec.android.app.popupcalculator"
+                launcher:screen="2" />
+            <!-- My Files -->
+            <favorite
+                launcher:className="com.sec.android.app.myfiles.common.MainActivity"
+                launcher:packageName="com.sec.android.app.myfiles"
+                launcher:screen="3" />
+            <!-- Radio -->
+            <favorite
+                launcher:className="com.sec.android.app.fm.MainActivity"
+                launcher:packageName="com.sec.android.app.fm"
+                launcher:screen="4" />
+
+        </folder>
+
+        <!-- Partners -->
+        <folder launcher:screen="2" launcher:title="精选应用" launcher:x="2" launcher:y="0">
+            <!-- WeChat -->
+            <favorite
+                launcher:className="com.tencent.mm.ui.LauncherUI"
+                launcher:packageName="com.tencent.mm"
+                launcher:screen="0" />
+            <!-- Alipay  -->
+            <favorite
+                launcher:className="com.eg.android.AlipayGphone.AlipayLogin"
+                launcher:packageName="com.eg.android.AlipayGphone"
+                launcher:screen="1" />
+            <!-- Baidu Map -->
+            <favorite
+                launcher:className="com.baidu.baidumaps.WelcomeScreen"
+                launcher:packageName="com.baidu.BaiduMap"
+                launcher:screen="2" />
+            <!-- Weibo -->
+            <favorite
+                launcher:className="com.sina.weibo.SplashActivity"
+                launcher:packageName="com.sina.weibo"
+                launcher:screen="3" />
+        </folder>
+
+
+        <!-- Galaxy Apps -->
+        <favorite
+            launcher:className="com.sec.android.app.samsungapps.SamsungAppsMainActivity"
+            launcher:packageName="com.sec.android.app.samsungapps"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+
+
+        <!-- Galaxy care -->
+        <favorite
+            launcher:className="com.samsung.android.voc.LauncherActivity"
+            launcher:packageName="com.samsung.android.voc"
+            launcher:screen="2"
+            launcher:x="4"
+            launcher:y="0" />
+
+        <!-- Clock -->
+        <favorite
+            launcher:className="com.sec.android.app.clockpackage.ClockPackage"
+            launcher:packageName="com.sec.android.app.clockpackagechina"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+
+
+        <!-- Smart manager -->
+        <favorite
+            launcher:className="com.samsung.android.sm.app.dashboard.SmartManagerDashBoardActivity"
+            launcher:packageName="com.samsung.android.sm_cn"
+            launcher:screen="2"
+            launcher:x="1"
+            launcher:y="1"/>
+
+        <!-- Theme Store -->
+        <favorite
+            launcher:className="com.samsung.android.themestore.activity.WTLauncher"
+            launcher:packageName="com.samsung.android.themestore"
+            launcher:screen="2"
+            launcher:x="2"
+            launcher:y="1" />
+        
+		<!-- Secure Folder -->
+        <favorite
+            launcher:packageName="com.sec.knox.switcher"
+            launcher:className="com.sec.knox.switcher.SecureFolderShortcutActivity" 
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="1" />
+
+    </home>
+
+    <!-- Hotseat (We use the screen as the position of the item in the hotseat) -->
+    <hotseat>
+        <!-- Phone -->
+        <favorite
+            launcher:className="com.android.dialer.DialtactsActivity"
+            launcher:packageName="com.samsung.android.contacts"
+            launcher:screen="0" />
+
+        <!-- Contacts -->
+        <favorite
+            launcher:className="com.android.contacts.activities.PeopleActivity"
+            launcher:packageName="com.samsung.android.contacts"
+            launcher:screen="1" />
+
+        <!-- Messages -->
+        <favorite
+            launcher:className="com.android.mms.ui.ConversationComposer"
+            launcher:packageName="com.samsung.android.messaging"
+            launcher:screen="2" />
+
+        <!-- Internet -->
+        <favorite
+            launcher:className="com.sec.android.app.sbrowser.SBrowserMainActivity"
+            launcher:packageName="com.sec.android.app.sbrowser"
+            launcher:screen="3" />
+
+        <!-- Camera -->
+        <favorite
+            launcher:className="com.sec.android.app.camera.Camera"
+            launcher:packageName="com.sec.android.app.camera"
+            launcher:screen="4" />
+
+    </hotseat>
+
+</favorites>

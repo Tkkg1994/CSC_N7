@@ -1,0 +1,3 @@
+fi_FI-ak-cur.lite.res	c75c5d29fd69e0c503ddecec6b9f1da1	492523
+fi_FI.lang	df1ff51512a59bb1443804db63ad4aa2	4125
+fi_FI-lk-text.lite.res	224dabff594f7e1a648110d8280131d3	6394080

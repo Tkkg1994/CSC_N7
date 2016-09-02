@@ -1,0 +1,2 @@
+/system/app/HandwritingService/HandwritingService.apk
+/system/app/OperaMax/OperaMax.apk
