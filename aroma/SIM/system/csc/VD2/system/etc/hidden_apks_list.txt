@@ -1,0 +1,6 @@
+/hidden/app/app-accessorystore-release-unsigned_02-11-2015-15-14-49_AndroidVFSigned-aligned.apk
+/hidden/app/app-productionflavor-storeRelease-signed.apk
+/hidden/app/Facebook_stub.apk
+/hidden/app/FBInstagram_stub.apk
+/hidden/app/secure_net_wifi_1.8.0_prod_unsigned_11-05-2016-08-13-14_AndroidVFSigned.apk
+/hidden/app/VodafoneStart-5.5.3-prod-release-AndroidVFSigned_zipaligned.apk

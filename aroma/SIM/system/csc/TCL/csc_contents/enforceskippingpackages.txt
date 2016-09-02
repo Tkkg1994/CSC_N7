@@ -1,0 +1,11 @@
+10
+NaverV.apk
+CnnPanel.apk
+SamsungPayStub.apk
+AndroidPay.apk
+FBMessenger_stub.apk
+WhatsAppDownloader.apk
+MSSkype_stub.apk
+OMCAgent.apk
+AxelSpringer.apk
+Chat.apk

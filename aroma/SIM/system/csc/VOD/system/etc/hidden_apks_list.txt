@@ -1,0 +1,3 @@
+/hidden/app/Facebook_stub.apk
+/hidden/app/FBInstagram_stub.apk
+/hidden/app/VodafoneStart-5.5.3-prod-release-AndroidVFSigned_zipaligned.apk

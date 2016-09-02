@@ -1,0 +1,16 @@
+15
+GalaxyCare.apk
+NaverV.apk
+FBAppManager.apk
+FBInstaller.apk
+FBAppManager_NS.apk
+FBInstaller_NS.apk
+FBInstagram_stub.apk
+FBMessenger_stub.apk
+Facebook_stub.apk
+WhatsAppDownloader.apk
+MSSkype_stub.apk
+OneNote_Compact_Samsung.apk
+OMCAgent.apk
+AxelSpringer.apk
+Chat.apk

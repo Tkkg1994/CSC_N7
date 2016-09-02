@@ -1,0 +1,5 @@
+/hidden/app/Dropbox-3.0.6.2.apk
+/hidden/app/Facebook_stub.apk
+/hidden/app/FBInstagram_stub.apk
+/hidden/app/MyVodafone_7.0.0_prod.apk
+/hidden/app/VodafoneStart-5.5.3-prod-release-AndroidVFSigned_zipaligned.apk

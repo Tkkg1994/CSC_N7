@@ -1,0 +1,2 @@
+/system/app/Facebook_stub/Facebook_stub.apk
+/system/app/FBInstagram_stub/FBInstagram_stub.apk
