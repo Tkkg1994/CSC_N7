@@ -368,7 +368,7 @@ selectbox(
 	"TEL",	"Australia Telstra branded",									0,	#-- selected.1 = 7
 	"TGY",	"Hong Kong unbranded (form qualcom, make EFS backup first!)",					0,	#-- selected.1 = 8
 	"THL",	"Thailand Multi-CSC (FD-Versions). Contains: CAM, GLB, LAO, MM1, MYM, SIN, SMA, STH, THL, XME, XSP, XTC, XTE, XXV",														0,	#-- selected.1 = 9
-	"TNZ",	"New Zealand unbranded",									0,	#-- selected.1 = 10
+	"TNZ",	"New Zealand Telecom/Spark branded",								0,	#-- selected.1 = 10
 	"XAC",	"Canada (W8 models) Multi-CSC Contains: BMC, BWA, ESK, FMC, GLW, KDO, MTA, RWC, TLS, VMC, VTR, XAC",														0,	#-- selected.1 = 11
 	"XSA",	"Australia unbranded",										0,	#-- selected.1 = 12
 	"XSG",	"United Arab Emirat Multi-CSC Conatains: ACR, AFG, AFR, BTC, DKR, ECT, EGY, KSA, LYS, MAT, MID, MWD, PAK, SMP THR, TMC, TUN, TUR, WTL, XFA, XFE, XSG",													0,	#-- selected.1 = 13
