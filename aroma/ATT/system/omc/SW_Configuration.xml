@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-N930F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>ATT</MultiCode>
+    <CustomerDataSet>
+        <CSCName>N930FATT</CSCName>
+        <CSCVersion>1APH1</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/ATT/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ATT</CustomerCode>
+            <Version>SAOMC_SM-N930U_ATT_ATT_0009</Version>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

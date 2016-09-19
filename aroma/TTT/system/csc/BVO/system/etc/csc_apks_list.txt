@@ -1,0 +1,4 @@
+/system/app/CLUB3_24/CLUB3_24.apk
+/system/app/VivaElFutbol110/VivaElFutbol110.apk
+/system/priv-app/SVoiceLang_PortuguesePack_BR-release/SVoiceLang_PortuguesePack_BR-release.apk
+/system/priv-app/SVoiceLang_SpanishPack_US-release/SVoiceLang_SpanishPack_US-release.apk

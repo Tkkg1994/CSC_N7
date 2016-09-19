@@ -358,21 +358,25 @@ selectbox(
 	  # TITLE            |  SUBTITLE                                                 | Initial Value #
 	  #------------------+-----------------------------------------------------------+---------------#  
 	
-	"Select One",			"",		2,	#-- Group 1. key = "selected.1"
-	"CHC",	"China unbranded (from qualcom, make EFS backup first!)",					0,	#-- selected.1 = 1
-	"DBT",	"Europe Multi-CSC. Contains: ATO, AUT, BGL, DBT, ETL, EUR, ITV, LUX, NEE, ORX, PHE, PHN, ROM, SEB, SEE, TPH, XEF, XEH, XEO, XEU",														0,	#-- selected.1 = 2
-	"HTS",	"Sweden branded",										0,	#-- selected.1 = 3
-	"ILO",	"Israel Multi-CSC Contains: CEL, ILO, PCL, PTR",						0,	#-- selected.1 = 4
-	"IUS",	"Mexico branded",										0,	#-- selected.1 = 5
-	"SIM",	"Vodafone Multi-CSC. Contains: ATL, AVF, CNX, CYV, MOB, MTL, OMN, PRO, SIM, SWC, TCL, TOP, VD2, VDC, VDF, VDH, VDI, VGR, VIP, VOD, XFV",														0,	#-- selected.1 = 6
-	"TEL",	"Australia Telstra branded",									0,	#-- selected.1 = 7
-	"TGY",	"Hong Kong unbranded (form qualcom, make EFS backup first!)",					0,	#-- selected.1 = 8
-	"THL",	"Thailand Multi-CSC (FD-Versions). Contains: CAM, GLB, LAO, MM1, MYM, SIN, SMA, STH, THL, XME, XSP, XTC, XTE, XXV",														0,	#-- selected.1 = 9
-	"TNZ",	"New Zealand Telecom/Spark branded",								0,	#-- selected.1 = 10
-	"XAC",	"Canada (W8 models) Multi-CSC Contains: BMC, BWA, ESK, FMC, GLW, KDO, MTA, RWC, TLS, VMC, VTR, XAC",														0,	#-- selected.1 = 11
-	"XSA",	"Australia unbranded",										0,	#-- selected.1 = 12
-	"XSG",	"United Arab Emirat Multi-CSC Conatains: ACR, AFG, AFR, BTC, DKR, ECT, EGY, KSA, LYS, MAT, MID, MWD, PAK, SMP THR, TMC, TUN, TUR, WTL, XFA, XFE, XSG",													0,	#-- selected.1 = 13
-	"ZTO",	"Brazil unbranded",										0       #-- selected.1 = 14
+	"Select Your CSC",									"",		2,	#-- Group 1. key = "selected.1"
+	"ATT",	"US ATT branded (from qualcom, make EFS backup first!)",					0,	#-- selected.1 = 1
+	"BRI",	"Taiwan unbranded",										0,	#-- selected.1 = 2
+	"BTU",	"United Kingdom unbranded",									0,	#-- selected.1 = 3
+	"CHC",	"China unbranded (from qualcom, make EFS backup first!)",					0,	#-- selected.1 = 4
+	"DBT",	"Europe Multi-CSC. Contains: ATO, AUT, BGL, DBT, ETL, EUR, ITV, LUX, NEE, ORX, PHE, PHN, ROM, SEB, SEE, TPH, XEF, XEH, XEO, XEU",														0,	#-- selected.1 = 5
+	"HTS",	"Sweden branded",										0,	#-- selected.1 = 6
+	"ILO",	"Israel Multi-CSC Contains: CEL, ILO, PCL, PTR",						0,	#-- selected.1 = 7
+	"IUS",	"Mexico branded",										0,	#-- selected.1 = 8
+	"SIM",	"Vodafone Multi-CSC. Contains: ATL, AVF, CNX, CYV, MOB, MTL, OMN, PRO, SIM, SWC, TCL, TOP, VD2, VDC, VDF, VDH, VDI, VGR, VIP, VOD, XFV",														0,	#-- selected.1 = 9
+	"TEL",	"Australia Telstra branded",									0,	#-- selected.1 = 10
+	"TGY",	"Hong Kong unbranded (form qualcom, make EFS backup first!)",					0,	#-- selected.1 = 11
+	"THL",	"Thailand Multi-CSC (FD-Versions). Contains: CAM, GLB, LAO, MM1, MYM, SIN, SMA, STH, THL, XME, XSP, XTC, XTE, XXV",														0,	#-- selected.1 = 12
+	"TNZ",	"New Zealand Telecom/Spark branded",								0,	#-- selected.1 = 13
+	"TTT",	"Trinidad and Tobago Multi-CSC Contains: ALE, ARO, BVO, CHO, COO, EON, PCW, TPA, TTT, UPO, UYO",0,	#-- selected.1 = 14
+	"XAC",	"Canada (W8 models) Multi-CSC Contains: BMC, BWA, ESK, FMC, GLW, KDO, MTA, RWC, TLS, VMC, VTR, XAC",														0,	#-- selected.1 = 15
+	"XSA",	"Australia unbranded",										0,	#-- selected.1 = 16
+	"XSG",	"United Arab Emirat Multi-CSC Conatains: ACR, AFG, AFR, BTC, DKR, ECT, EGY, KSA, LYS, MAT, MID, MWD, PAK, SMP THR, TMC, TUN, TUR, WTL, XFA, XFE, XSG",													0,	#-- selected.1 = 17
+	"ZTO",	"Brazil unbranded",										0       #-- selected.1 = 18
 
 	  #--------[ Initial Value = 0: Unselected, 1: Selected, 2: Group Item, 3: Not Visible ]---------#
 

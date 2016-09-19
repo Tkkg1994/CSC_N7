@@ -1,0 +1,3 @@
+/hidden/app/Kaiti.apk
+/hidden/app/Miao.apk
+/hidden/app/ShaoNv.apk

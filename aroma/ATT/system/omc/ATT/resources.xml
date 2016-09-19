@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourcelist>
+  <common>
+    <charging>Charge</charging>
+    <networkBearer>All</networkBearer>
+  </common>
+  <resourceInfo>
+    <id>201604110002</id>
+    <size>15678719</size>
+    <mode>resource</mode>
+    <downloadType>samsungapps</downloadType>
+  </resourceInfo>
+</resourcelist>
