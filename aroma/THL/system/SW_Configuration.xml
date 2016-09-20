@@ -5,7 +5,7 @@
 	</MobileData>
 	<CustomerDataSet>
 	<CSCName>N930FOLB</CSCName>
-	<CSCVersion>1BPH5</CSCVersion>
+	<CSCVersion>1BPI1</CSCVersion>
 	<NbCustomer>14</NbCustomer>
 	<CustomerData src="/Customer/THL/customer.xml" />
 	<CustomerData src="/Customer/CAM/customer.xml" />

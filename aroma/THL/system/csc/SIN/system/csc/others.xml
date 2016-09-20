@@ -1,6 +1,6 @@
 ﻿<?xml  version="1.0" encoding="UTF-8" ?>
 <SamsungMobileFeature>
-  <Version>ED00005</Version>
+  <Version>ED00006</Version>
   <Country>SINGAPORE</Country>
   <CountryISO>SG</CountryISO>
   <SalesCode>SIN</SalesCode>
@@ -56,6 +56,7 @@
     <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SilentMode,Bluetooth,RotationLock,Flashlight,Location,MobileData,VoLte,AirplaneMode,PowerSaving,Nfc,WifiHotspot,BlueLightFilter,Aod,AllShareCast,SecureFolder,DeviceVisibility,DormantMode,Sync</CscFeature_SystemUI_ConfigDefQuickSettingItem>
     <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>SIN_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
     <CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>voltesettingscommon,checknonvoltesim</CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>
+    <CscFeature_VoiceCall_ConfigOpStyleForVolte>SIN_VOLTE</CscFeature_VoiceCall_ConfigOpStyleForVolte>
     <CscFeature_Web_SetHomepageURL>http://myportal.singtel.com/</CscFeature_Web_SetHomepageURL>
     <CscFeature_Web_SetUAProfile>http://wap.samsungmobile.com/uaprof/uaprof.rdf</CscFeature_Web_SetUAProfile>
     <CscFeature_Wifi_ConfigOpBranding>SingTel</CscFeature_Wifi_ConfigOpBranding>

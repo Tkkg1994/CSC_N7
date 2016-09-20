@@ -16,7 +16,6 @@
     <CscFeature_IMS_EnableLTEVideoCall>TRUE</CscFeature_IMS_EnableLTEVideoCall>
     <CscFeature_IMS_EnableVoLTE>TRUE</CscFeature_IMS_EnableVoLTE>
     <CscFeature_IMS_FrameworkVersion>6.0</CscFeature_IMS_FrameworkVersion>
-    <CscFeature_NFC_ConfigDynamicFirmwareLoading>THL</CscFeature_NFC_ConfigDynamicFirmwareLoading>
     <CscFeature_RIL_BlockUssdDuringVolteCall>TRUE</CscFeature_RIL_BlockUssdDuringVolteCall>
     <CscFeature_RIL_ConfigAlwaysOnApn>ims,xcap</CscFeature_RIL_ConfigAlwaysOnApn>
     <CscFeature_RIL_ConfigEpdgExtraFunction>ERIS,ShowPrefModeMenuSim_52003_52001_52074_52054_52005;</CscFeature_RIL_ConfigEpdgExtraFunction>

@@ -41,35 +41,40 @@
                 launcher:screen="6" 
                 launcher:packageName="com.sec.android.app.samsungapps" 
                 launcher:className="com.sec.android.app.samsungapps.SamsungAppsMainActivity" />
-            <!-- PEN.UP -->
+            <!-- Samsung Gear -->
             <favorite
                 launcher:screen="7" 
+                launcher:packageName="com.samsung.android.app.watchmanager" 
+                launcher:className="com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity" />           
+            <!-- PEN.UP -->
+            <favorite
+                launcher:screen="8" 
                 launcher:packageName="com.sec.penup" 
                 launcher:className="com.sec.penup.ui.SplashActivity" />
             <!-- Secure Folder -->
             <favorite
-                launcher:screen="8" 
+                launcher:screen="9" 
                 launcher:packageName="com.sec.knox.switcher" 
                 launcher:className="com.sec.knox.switcher.SecureFolderShortcutActivity" />
             <!-- mySamsung -->
             <favorite
-                launcher:screen="9" 
+                launcher:screen="10" 
                 launcher:packageName="com.samsung.concierge" 
                 launcher:className="com.samsung.concierge.activities.SplashActivity" />
             <!-- iflix -->
             <favorite
-                launcher:screen="10" 
+                launcher:screen="11" 
                 launcher:packageName="iflix.play" 
                 launcher:className="my.com.iflix.iflix.login.LoginActivity" />
             <!-- Samsung Savour -->
             <favorite
-                launcher:screen="11" 
+                launcher:screen="12" 
                 launcher:packageName="com.alphapod.samsungrecipe" 
                 launcher:className="com.alphapod.samsungrecipe.activity.SplashScreenActivity" />
 			
             <!-- Smart Tutor -->
             <favorite
-                launcher:screen="12" 
+                launcher:screen="13" 
                 launcher:packageName="com.rsupport.rs.activity.rsupport.aas2" 
                 launcher:className="com.rsupport.rs.activity.edit.IntroActivity" />
     </folder>
@@ -187,11 +192,11 @@
                 launcher:className="com.skype.raider.Main" />
     </folder>
 
-    <!-- Samsung Gear -->
+    <!-- Samsung Pay -->
     <favorite
         launcher:screen="0" 
-        launcher:packageName="com.samsung.android.app.watchmanager" 
-        launcher:className="com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity" />
+        launcher:packageName="com.samsung.android.spay" 
+        launcher:className="com.samsung.android.spay.ui.SpayMainActivity" />
 		
     <!-- Play Store -->
     <favorite
