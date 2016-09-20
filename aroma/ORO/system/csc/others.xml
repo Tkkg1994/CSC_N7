@@ -1,0 +1,67 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED003</Version>
+  <Country>ROMANIA</Country>
+  <CountryISO>RO</CountryISO>
+  <SalesCode>ORO</SalesCode>
+  <FeatureSet>
+    <CscFeature_Common_Vibration4NotiDuringCall>TRUE</CscFeature_Common_Vibration4NotiDuringCall>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>ORANGE</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_Framework_AddProductRoField>BRAND1-orange</CscFeature_Framework_AddProductRoField>
+    <CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>TRUE</CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>
+    <CscFeature_Setting_EnableDataServicePopup>TRUE</CscFeature_Setting_EnableDataServicePopup>
+    <CscFeature_Setting_SkipStepsDuringSamsungSetupWizard>SamsungAccount,SamsungBackup</CscFeature_Setting_SkipStepsDuringSamsungSetupWizard>
+    <CscFeature_Setting_CustNetworkSelMenu4>NUMERIC</CscFeature_Setting_CustNetworkSelMenu4>
+    <CscFeature_Setting_BlockToSelectDunApnType>TRUE</CscFeature_Setting_BlockToSelectDunApnType>
+    <CscFeature_VoiceCall_DisableUssdCancelPopup>TRUE</CscFeature_VoiceCall_DisableUssdCancelPopup>
+    <CscFeature_VoiceCall_EnableBeepVibration4UssdAlert>TRUE</CscFeature_VoiceCall_EnableBeepVibration4UssdAlert>
+    <CscFeature_VoiceCall_EnableCallButtonInFdnList>TRUE</CscFeature_VoiceCall_EnableCallButtonInFdnList>
+    <CscFeature_VoiceCall_RemoveKeypadDuringVmsCall>TRUE</CscFeature_VoiceCall_RemoveKeypadDuringVmsCall>
+    <CscFeature_VoiceCall_LogListViewConfig>vvm</CscFeature_VoiceCall_LogListViewConfig>
+    <CscFeature_Message_DisableSmsToMmsConversionByTextInput>TRUE</CscFeature_Message_DisableSmsToMmsConversionByTextInput>
+    <CscFeature_Message_ReplaceLabelOnRequestedStatus>TRUE</CscFeature_Message_ReplaceLabelOnRequestedStatus>
+    <CscFeature_Message_EnableMmsConvWarningForEmailAddress>TRUE</CscFeature_Message_EnableMmsConvWarningForEmailAddress>
+    <CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
+    <CscFeature_Email_DisableAutoDomainGenerationDuringManualSetup>TRUE</CscFeature_Email_DisableAutoDomainGenerationDuringManualSetup>
+    <CscFeature_Gallery_DefSyncSize4Picasa>thumbnail</CscFeature_Gallery_DefSyncSize4Picasa>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+    <CscFeature_Web_DisableChooser4>application/sdp,application/x-mpegurl</CscFeature_Web_DisableChooser4>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>TRUE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_Web_EnableAutoBookmarkSetBySim>TRUE</CscFeature_Web_EnableAutoBookmarkSetBySim>
+    <CscFeature_GMS_SetClientIDBaseMs>android-orange-{country}</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SetClientIDBaseAm>android-orange-{country}</CscFeature_GMS_SetClientIDBaseAm>
+    <CscFeature_Wifi_UseRandom4digitCombinationAsSSID>TRUE</CscFeature_Wifi_UseRandom4digitCombinationAsSSID>
+    <CscFeature_Wifi_EnableShowPasswordAsDefault>TRUE</CscFeature_Wifi_EnableShowPasswordAsDefault>
+    <CscFeature_Wifi_UseDefaultSecurityAs>WPA2/PSK</CscFeature_Wifi_UseDefaultSecurityAs>
+    <CscFeature_Wifi_EnableWarningPopup4DataBatteryUsage>TRUE</CscFeature_Wifi_EnableWarningPopup4DataBatteryUsage>
+    <CscFeature_Wifi_PriorityRuleAs>PrivateFirst</CscFeature_Wifi_PriorityRuleAs>
+    <CscFeature_Wifi_SendSignalDuringPowerOff>TRUE</CscFeature_Wifi_SendSignalDuringPowerOff>
+    <CscFeature_Wifi_EnableMenuAutoJoin>TRUE</CscFeature_Wifi_EnableMenuAutoJoin>
+    <CscFeature_NFC_DefStatus>ON</CscFeature_NFC_DefStatus>
+    <CscFeature_NFC_StatusBarIconType>DEFAULT</CscFeature_NFC_StatusBarIconType>
+    <CscFeature_NFC_ReplaceLabelsAs>ORANGE</CscFeature_NFC_ReplaceLabelsAs>
+    <CscFeature_SmartcardSvc_HideTerminalCapability>eSE</CscFeature_SmartcardSvc_HideTerminalCapability>
+    <CscFeature_RIL_PDPRetryMechanism4>ORG</CscFeature_RIL_PDPRetryMechanism4>
+    <CscFeature_RIL_ConfigAlwaysOnApn>mms,ims,xcap</CscFeature_RIL_ConfigAlwaysOnApn>
+    <CscFeature_RIL_SupportOrangeCPHS>TRUE</CscFeature_RIL_SupportOrangeCPHS>
+    <CscFeature_RIL_ApnControlByModem>TRUE</CscFeature_RIL_ApnControlByModem>
+    <CscFeature_RIL_RemoveToastDuringStkRefresh>TRUE</CscFeature_RIL_RemoveToastDuringStkRefresh>
+    <CscFeature_RIL_RemoveToastDuringBipOperation>TRUE</CscFeature_RIL_RemoveToastDuringBipOperation>
+    <CscFeature_RIL_StkCmdTimeOut>Select item,30</CscFeature_RIL_StkCmdTimeOut>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+    <CscFeature_SyncML_DeltaBinaryDownVia>Unlimited</CscFeature_SyncML_DeltaBinaryDownVia>
+    <CscFeature_SyncML_DisableWarning4DataCostDuringFota>TRUE</CscFeature_SyncML_DisableWarning4DataCostDuringFota>
+    <CscFeature_Message_ConfigFreeMessage>off</CscFeature_Message_ConfigFreeMessage>
+	
+    <!-- IMS service: Common -->
+    <CscFeature_IMS_EnableIMS>false</CscFeature_IMS_EnableIMS>
+    <!-- IMS service: VoLTE -->
+    <CscFeature_IMS_EnableVoLTE>false</CscFeature_IMS_EnableVoLTE>
+    <CscFeature_IMS_EnableLTEVideoCall>false</CscFeature_IMS_EnableLTEVideoCall>
+    <!-- IMS service: VoWiFi -->
+    <!-- IMS service: RCS -->
+    <CscFeature_IMS_EnableRCSe>false</CscFeature_IMS_EnableRCSe>
+    <CscFeature_IMS_EnableRCSPresence>false</CscFeature_IMS_EnableRCSPresence>
+
+  </FeatureSet>
+</SamsungMobileFeature>
