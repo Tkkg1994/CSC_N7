@@ -1,0 +1,15 @@
+14
+FBAppManager.apk
+FBInstaller.apk
+FBAppManager_NS.apk
+FBInstaller_NS.apk
+FBInstagram_stub.apk
+FBMessenger_stub.apk
+Facebook_stub.apk
+WhatsAppDownloader.apk
+GalaxyCare.apk
+CnnPanel.apk
+AndroidPay.apk
+OMCAgent.apk
+AxelSpringer.apk
+Chat.apk
