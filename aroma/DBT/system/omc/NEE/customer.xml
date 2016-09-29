@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomerData>
   <GeneralInfo>
-    <CSCEdition>ED0014</CSCEdition>
+    <CSCEdition>ED0015</CSCEdition>
     <Country>Nordic</Country>
     <CountryISO>SE</CountryISO>
     <Region>EUR</Region>
@@ -1655,6 +1655,7 @@
         <ProfileName>mms.ice.net</ProfileName>
         <URL>http://mmsc</URL>
         <Auth>normal</Auth>
+        <Bearer>ps</Bearer>
         <Protocol>http</Protocol>
         <MTUSize>1500</MTUSize>
         <Proxy>
@@ -1663,7 +1664,7 @@
           <Port>8080</Port>
         </Proxy>
         <PSparam>
-          <APN>ice.net</APN>
+          <APN>mms.ice.net</APN>
         </PSparam>
       </Profile>
       <Profile>

@@ -7,7 +7,7 @@
     <MultiCode>OXM</MultiCode>
     <CustomerDataSet>
         <CSCName>N930FOXM</CSCName>
-        <CSCVersion>1BPH9</CSCVersion>
+        <CSCVersion>2BPI5</CSCVersion>
         <NbCustomer>20</NbCustomer>
         <CustomerData src="/Customer/ATO/customer.xml" />
         <CustomerData src="/Customer/AUT/customer.xml" />
@@ -76,7 +76,7 @@
         </OmcCode>
         <OmcCode>
             <CustomerCode>NEE</CustomerCode>
-            <Version>SAOMC_SM-N930F_OXM_NEE_0043</Version>
+            <Version>SAOMC_SM-N930F_OXM_NEE_0044</Version>
             <Packages>
                 <package name="com.samsung.samsungupick" />
             </Packages>
@@ -107,7 +107,7 @@
         </OmcCode>
         <OmcCode>
             <CustomerCode>SEE</CustomerCode>
-            <Version>SAOMC_SM-N930F_OXM_SEE_0017</Version>
+            <Version>SAOMC_SM-N930F_OXM_SEE_0020</Version>
         </OmcCode>
         <OmcCode>
             <CustomerCode>TPH</CustomerCode>

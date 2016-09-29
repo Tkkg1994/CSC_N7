@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <omcInfo>
   <contentType>0</contentType>
-  <version>SAOMC_SM-N930F_OXM_NEE_0043</version>
+  <version>SAOMC_SM-N930F_OXM_NEE_0044</version>
   <model>
     <name>SM-N930F</name>
   </model>
@@ -11,7 +11,7 @@
   </common>
   <catalog>
     <customer>yes</customer>
-    <customerEdition>ED0014</customerEdition>
+    <customerEdition>ED0015</customerEdition>
     <others>yes</others>
     <othersEdition>ED00009</othersEdition>
     <cp>no</cp>
