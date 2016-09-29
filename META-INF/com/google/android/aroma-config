@@ -359,7 +359,7 @@ selectbox(
 	  #------------------+-----------------------------------------------------------+---------------#  
 	
 	"Select Your CSC",									"",		2,	#-- Group 1. key = "selected.1"
-	"ATT",	"US ATT branded (from qualcom, make EFS backup first!)",					0,	#-- selected.1 = 1
+	"ATT",	"USA ATT branded (from qualcom, make EFS backup first!)",					0,	#-- selected.1 = 1
 	"BRI",	"Taiwan unbranded",										0,	#-- selected.1 = 2
 	"BTU",	"United Kingdom unbranded",									0,	#-- selected.1 = 3
 	"CHC",	"China unbranded (from qualcom, make EFS backup first!)",					0,	#-- selected.1 = 4
@@ -374,7 +374,8 @@ selectbox(
 	"TEL",	"Australia Telstra branded",									0,	#-- selected.1 = 11
 	"TGY",	"Hong Kong unbranded (form qualcom, make EFS backup first!)",					0,	#-- selected.1 = 12
 	"THL",	"Thailand Multi-CSC (FD-Versions). Contains: CAM, GLB, LAO, MM1, MYM, SIN, SMA, STH, THL, XME, XSP, XTC, XTE, XXV",														0,	#-- selected.1 = 13
-	"TNZ",	"New Zealand Telecom/Spark branded",								0,	#-- selected.1 = 14
+	"TMB",	"New Zealand Telecom/Spark branded",								0,	#-- selected.1 = 14
+	"TNZ",	"USA TMB branded (from qualcom, make EFS backup first!)",					0,	#-- selected.1 = 14
 	"TTT",	"Trinidad and Tobago Multi-CSC Contains: ALE, ARO, BVO, CHO, COO, EON, PCW, TPA, TTT, UPO, UYO",0,	#-- selected.1 = 15
 	"XAC",	"Canada (W8 models) Multi-CSC Contains: BMC, BWA, ESK, FMC, GLW, KDO, MTA, RWC, TLS, VMC, VTR, XAC",														0,	#-- selected.1 = 16
 	"XSA",	"Australia unbranded",										0,	#-- selected.1 = 17

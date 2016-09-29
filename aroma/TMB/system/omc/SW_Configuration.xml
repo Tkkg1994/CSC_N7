@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-N930F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>TMB</MultiCode>
+    <CustomerDataSet>
+        <CSCName>N930FTMB</CSCName>
+        <CSCVersion>2API4</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/TMB/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>TMB</CustomerCode>
+            <Version>SAOMC_SM-N930T_TMB_TMB_0002</Version>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
