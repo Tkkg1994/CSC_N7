@@ -1,0 +1,12 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED00003</Version>
+  <Country>NEPAL</Country>
+  <CountryISO>NP</CountryISO>
+  <SalesCode>NPL</SalesCode>
+  <FeatureSet>
+    <CscFeature_RIL_DisableEons>TRUE</CscFeature_RIL_DisableEons>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+    <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart</CscFeature_SmartManager_ConfigSubFeatures>
+  </FeatureSet>
+</SamsungMobileFeature>

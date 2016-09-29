@@ -366,6 +366,7 @@ selectbox(
 	"DBT",	"Europe Multi-CSC. Contains: ATO, AUT, BGL, DBT, ETL, EUR, ITV, LUX, NEE, ORX, PHE, PHN, ROM, SEB, SEE, TPH, XEF, XEH, XEO, XEU",														0,	#-- selected.1 = 5
 	"HTS",	"Sweden branded",										0,	#-- selected.1 = 6
 	"ILO",	"Israel Multi-CSC Contains: CEL, ILO, PCL, PTR",						0,	#-- selected.1 = 7
+	"INS",	"India Multi-CSC Contains: BGN, INS, INU, NPL, SLI, SLK",					0,	#-- selected.1 = 7
 	"IUS",	"Mexico branded",										0,	#-- selected.1 = 8
 	"ORO",	"Romania Orange branded",									0,	#-- selected.1 = 9
 	"SIM",	"Vodafone Multi-CSC. Contains: ATL, AVF, CNX, CYV, MOB, MTL, OMN, PRO, SIM, SWC, TCL, TOP, VD2, VDC, VDF, VDH, VDI, VGR, VIP, VOD, XFV",														0,	#-- selected.1 = 10
