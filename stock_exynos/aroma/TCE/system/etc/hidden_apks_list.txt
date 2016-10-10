@@ -1,0 +1,10 @@
+/hidden/Common_app/2016RealFootballMobilePremium_Samsung_Grace_IGP_LATAM_ML_MP_L_100_SF70.apk
+/hidden/Common_app/Claromusica_20160707_MEXICO_6_2_32.apk
+/hidden/Common_app/Claroshop_v2.0.72.apk
+/hidden/Common_app/ClaroVideo_v361v14.apk
+/hidden/Common_app/DragonMania_FULL_Samsung_Grace_L_IGP_LATAM_ML_IAP_ADS_OI02_102.apk
+/hidden/Common_app/IceAgeScratVentures_SMS_Samsung_Grace_IGP_LATAM_ML_100_SF71.apk
+/hidden/Common_app/smarttutor_v1.5_b160.apk
+/hidden/Common_app/SpiderManUltimatePower_FULL_Samsung_Grace_IGP_LATAM_ML_IAP_100_OI01.apk
+/hidden/Common_app/tetris_v1.0.0_728521_latam_signed_22122015_wrapped_v1.9.4_d477.apk
+/hidden/Common_app/Transfer_v2.9.40.apk

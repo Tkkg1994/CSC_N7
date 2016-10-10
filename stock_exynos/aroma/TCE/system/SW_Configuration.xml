@@ -1,0 +1,21 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-N930F</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>N930FTCE</CSCName>
+	<CSCVersion>2BPI1</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/TCE/customer.xml" />
+	</CustomerDataSet>
+	<HandData>
+		<NbApprovalVer>1</NbApprovalVer>
+		<ApprovalVer>
+		<Customer>TCE</Customer>
+			<CodeFullVersion>N930FXXU0APFH</CodeFullVersion>
+			<ModemFullVersion>N930FXXU0APFH</ModemFullVersion>
+			<CSCFullVersion>N930FTCE0APF2</CSCFullVersion>
+		</ApprovalVer>
+	</HandData>
+</SW-Configuration>
